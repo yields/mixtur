@@ -1,0 +1,13 @@
+{
+  "name": "mixtur",
+  "description": "inline css with html",
+  "version": "0.0.1",
+  "dependencies": {
+    "css-parse": "~1.5.2",
+    "cheerio": "~0.12.1"
+  },
+  "devDependencies": {
+    "should": "*",
+    "mocha": "*"
+  }
+}
